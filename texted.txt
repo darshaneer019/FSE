@@ -1,1 +1,2 @@
 learning about git and github for my future
+next up is to learn about the version control of the git
